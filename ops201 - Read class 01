@@ -1,0 +1,4 @@
+The topic of system restore is important to cybersecurity, as there are many situations, in which, this would solve many of. System restore is a tool which can bring nearly any system back to a working state.
+System restore typically takes 10-30 minutes, but can also take much longer depending on different variables.
+In order to start a system restore via command prompt, one must use the command rstrui.exe.
+If system restore does not fix the issue, one could first try a restore point from an earlier point it time. If issues continue to arise, one could undo the system restore and troubleshoot from there.
