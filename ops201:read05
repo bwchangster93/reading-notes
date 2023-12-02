@@ -1,0 +1,23 @@
+#The topic of microsoft command prompt commands is important because a majority of professional users operate using Windows operating systems.
+
+
+#1Q: How can you list the files in the current directory using the command prompt?
+
+#1A: The command "dir" will list all of the files in the current directory
+
+#2Q: How might the “sfc” command and the “gpupdate” command help in troubleshooting on Windows?
+
+#2A: There are times when Windows will not be able to boot properly making troubleshooting difficult. With the "sfc" command, you can have
+#windows scan and repair the operating system and then use "gpupdate" to update group policies to  proper settings.
+
+#3Q: What advantages does the “robocopy” command offer over the “xcopy” command, and why is it useful for file transfers in certain situations?
+
+#3A: A main advantage that "robocopy" offers over "xcopy" is that it has the ability to resume the task after being interrupted. This is useful
+#for wide area connections where the connection could be disconnected periodically.
+
+#4Q: Think about any real-life scenarios from your cultural context where the use of command line tools could be beneficial. 
+#Describe one such scenario and explain how a specific command line tool would help address the situation.
+
+#4A: I could see situations for all, but the one I find the most useful is if I need to retrieve significant data from one system to another. In this case
+# I would use "robocopy" and begin to transfer the files over the network. With using "robocopy", I don't have to worry about interrupted connection, which
+# could cause corrupt files, and I would not have to monitor the process as it would resume on it's own should it be interrupted.
