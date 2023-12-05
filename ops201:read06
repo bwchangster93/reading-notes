@@ -1,0 +1,27 @@
+1. What are the five main sections included in the Windows Defender Security Center, and what functionalities do they offer?
+
+  The five main sections in the Windows Defender Security Center are Virus and threat protection, Device performance and health, 
+Firewall and network protection, App and browser control, and Family options. Within Virus and threat protection, all 3rd party anti-virus software
+can be launched. Also, all scan reports and threat history will be posted here. The device performance and health section provides information on the
+current status of battery and storage of your PC. In the Firewall and network protection section, it allows you to manage all firewall settings as well
+as showing some troubleshooting information. App and browser control adjusts settings for browsers and applications. Finally, the fammily options
+allow you to view all of the devices on the network and instill parental controls.
+
+2. What information does the “Device performance & health” section provide, and how can you access it?
+  
+  This section shows the health of the battery and storage devices that could possibly hint that something is wrong. You can access this by 
+clicking on "view health report" through the Windows Defender Security Center.
+
+3. How does the Windows Defender Security Center notify you of issues that require your attention?
+
+  Windows Defender Security Center notifies you by displaying a yellow exclamation mark.
+
+4. What features are managed under the “Firewall & network protection” section in the Windows Defender Security Center?
+
+  The main features are "Virus and threat protection settings", "Virus and threat protection updates", and "ransomware protection".
+
+5. How does the concept of “security” in Windows Defender Security Center relate to your own experiences in keeping your personal belongings safe? 
+Share some strategies you use to protect your belongings and how they might parallel the security measures used in the digital world.
+
+  There are many similar functions of security in the physical world and digital world. For example, when I lock my doors, that can
+be seen as equivalent as putting a password or a firewall on a device. The key would be the password, and the lock could be the firewall. 
