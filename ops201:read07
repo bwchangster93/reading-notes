@@ -1,0 +1,36 @@
+PowerShell is important to understand in cybersecurity because it has become a much more common method of attack over
+recent years. Gaining a better understanding of PowerShell will allow cybersecurity professionals to defend better in the future.
+
+1. What is the difference between Bash and PowerShell?
+
+  The main difference is that Bash is primarily for Linux and PowerShell is mainly for Windows.
+Bash also requires a lot of string manipulation and parsing, whereas PowerShell can easily pass objects between cmdlets.
+This allows for PowerShell to move complex data with much less effort.
+
+2. In what scenarios or environments can you use PowerShell? Name some major platforms where PowerShell is supported.
+
+  While PowerShell was primarily created for Windows, both Bash and PowerShell have become better at managing
+both Linux and Windows. It now comes down to more if you would like to work with strings or objects.
+
+  Some major platforms where PowerShell is supported would be Windows, Linux, Hyper-V, VMWare, AWS, Azure, 
+and Oracle.
+
+3. List at least three reasons why learning PowerShell could be beneficial for your career and environment.
+
+  PowerShell can be beneficial for many different reasons. Some include:
+automation (will help be more efficient), Versatility (learning this skill will enhance your abilities everywhere),
+relevance (PowerShell is growing quickly and being adopted in many place), and it's community (There is a very
+connected and welcoming community. Being a part of this community will help become a better admin or engineer).
+
+4. How can PowerShell’s automation capabilities improve efficiency and reduce manual errors?
+
+  PowerShell can help with these things due to the fact that it works with objects. Inputs and outputs are .NET
+objects. This allows for inputing segments with a simple line instead of inputing an entire string which has more
+possibilities for errors.
+
+5. Think about a situation where you might use PowerShell in your everyday life or job. 
+How could PowerShell help you accomplish a specific task or solve a problem?
+
+  With PowerShell's autonomous nature, it can help with many repetitive tasks as well as be simpler to
+create this autonomous function. This would make for much less human error and result in much more accurate
+products.
