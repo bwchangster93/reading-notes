@@ -1,0 +1,20 @@
+Understanding Windows Registry will allow for more efficient and customized use with a wide array of different applications. 
+
+1. What is the Windows Registry, and what does it store?
+  The windows registry is a collection of several databases. Within this, there are system-wide registry settings that apply accross all users on the system,
+and also has it's own user-specific settings.
+
+2. What are the two types of registry settings stored for each Windows user account?
+  The two types of registry settings are HKEY_current_user (HKCU) and HKEY_USERS (HKU)
+
+3. What are “registry hacks” and why might someone want to use them?
+  Registry hacks are essentially personal adjustments made to the registry settings. This can help make things more efficient, secure, or even just offer personal
+preferences to users.
+
+4. What are some common tasks you can perform by editing the Windows Registry?
+  Some common tasks include displaying a message at sign in, enable Secret crapware blocker, clean up context menu, add any application to contect menu, and much more.
+
+5. Imagine you’re explaining the concept of the Windows Registry to someone who has never used a computer before. 
+How would you make this explanation culturally relevant and relatable to their life experiences or background?
+  Windows Registry is essentially just your personal settings that you would like to apply. It can be compared to something as simple as seat adjustments in a car seat.
+These settings are all there to personally tailor to your personal experience.
