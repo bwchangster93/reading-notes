@@ -1,0 +1,27 @@
+1. What is Backup and Disaster Recovery (BDR), and why is it essential for businesses?
+
+BDR is the process of storing important data at an offsite location and keeping it for emergency recoveries. This is essential for businesses in
+case there is a security emergency in which the data must be restored.
+
+2. Describe the process of data backup in detail.
+
+The two main methods of BDR are cloud and physical backups. In terms of a cloud backup, a business would use an online service, backing the data up
+through a network to a server to store the data. A physical backup would be storing the data through the business's own storage means ranging from
+an external harddrive, to a back up server.
+
+3. What does disaster recovery refer to, and why is it crucial to have it in addition to data backups?
+
+Disaster recovery refers to when a business needs to retain it's continuity in the event of a security emergency such as a ransomware attack.
+
+4. What is cloud backup and recovery, and how does it enhance data security?
+
+Cloud backup and recovery uses a service to backup data. This can enhance data security because the service will have it's own separate locations and 
+not be directly connected to the businesses data. This will keep the data more secure from any attacks done directly to the business.
+
+5. In some cultures, the concept of data privacy is highly valued, while in others, sharing information openly is considered normal. 
+How might these cultural norms affect the way individuals approach data backup and disaster data recovery? Provide examples to support your response.
+
+Data of different scopes are treated very differently in terms of privacy. For example, data on websites such as wikipedia is meant to be shared, and
+therefore does not require any form of security. On the contrary, medical or financial institutions must keep their client data highly secure. Businesses
+that require highly secure data will prefer to use in house solutions as to not have as many openings to their data, and ones that have less secure data
+can use more convenient methods of data protection.
