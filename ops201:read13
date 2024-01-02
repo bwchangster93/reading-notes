@@ -1,0 +1,20 @@
+1. How has virtualization evolved beyond desktops and servers?
+
+Virtualization has past desktops and servers to cover the network, storage, data devices, as well as applications.
+
+2. In the context of the Amazon IaaS Cloud Service Model, what does EC2 stand for?
+
+EC2 is essentially an IaaS service that provides virutal servers based on the Xen hypervisor.
+
+3. What types of storage does EC2 use, and how is EC2 web traffic managed?
+
+EC2 uses either Ephemeral (temporary) or Elastic Block Storage snapshots stored in Amazon S3. EC2 web traffic first goes through load balancing, security groups, region (availability zone or EC2 instance).
+
+4. What are the benefits of service-oriented architecture for customers of EC2 virtualized services?
+
+The main benefits of this architecture is the optimization of limited resources, as well as scalability.
+
+5. Analyze how cloud virtualization can promote equitable access to technology resources across diverse populations. How can this technology bridge cultural gaps and empower underserved communities?
+
+This technology could help distribute potential computing resources to a broader spectrum of people based on demand. For instance, I personally use a high end personal system. There are many times that I am utilizing a very
+low percentage of available resources. If I were to virtualize my system to automatically change based on demand and redistribute throughout, then my system could provide the resources needed for many other people from all the same system.
