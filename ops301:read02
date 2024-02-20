@@ -1,0 +1,23 @@
+What is a port? Describe it with an analogy that would help a family member understand.
+
+A port is essentially the door for connection between two systems. The port allows, or doesn't allow a connection from one system to another.
+
+What does a port scanner send to a port to check the current status?
+
+A port scanner sends a TCP or UDP package to check the current status.
+
+When a port scanner sends a request to connect, what are the three possible responses? Describe them.
+
+What is the difference between TCP and UDP?
+
+The main difference is that TCP is a connection-based protocol and UDP is connectionless. TCP is more reliable whilst UDP works more quickly.
+
+List and describe the ports used for the following:
+Telnet 23 TCP
+SSH 22 TCP
+DNS 53 UDP
+SMTP 25 TCP
+HTTP 80 TCP
+HTTPS 443 TCP
+RDP 3389 TCP
+Ping Uses ICMP which does not have a port.
